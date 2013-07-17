@@ -1,0 +1,12 @@
+{
+	"name": "refract-rest",
+	"version": "0.0.1",
+	"dependencies": {
+		"refract": "*",
+		"jquery-joules": "1.9.x"
+	},
+	"devDependencies": {
+		"jmocha": "*"
+	},
+	"main": "./lib/index.js"
+}
